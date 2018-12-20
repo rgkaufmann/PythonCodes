@@ -1,0 +1,101 @@
+Part 1: Square)
+	Function Generator:
+		100.0 mVpp
+		2 kHz
+	Resistor: 1kOhm
+	Capacitor: 0.1uF
+	Oscilloscope:
+		Ch1: 20mV
+		Ch2: 20mV
+		Time: 25us
+	Info:
+		Chi2/dof = 1.105e+00
+		Slope = 481.23195 +/- 0.10222
+		RC Time Constant = 1.039e-04 +/- 2.207e-08
+		Voffset = -2.146e-03 +/- 7.245e-06
+
+	Function Generator:
+		500.0 mVpp
+		2 kHz
+	Resistor: 1kOhm
+	Capacitor: 0.1uF
+	Oscilloscope:
+		Ch1: 200mV
+		Ch2: 200mV
+		Time: 25us
+	Info:
+		Chi2/dof = 1.055e+00
+		RC Time Constant = 8.671e-05 +/- 1.778e-08
+		Voffset = 1.569e-02 +/- 3.638e-05
+
+	Function Generator:
+		100.0 mVpp
+		100 Hz
+	Resistor: 1kOhm
+	Capacitor: 0.1uF
+	Oscilloscope:
+		Ch1: 500mV
+		Ch2: 20mV
+		Time: 500us
+	Info:
+		Chi2/dof = 8.580e-01
+		RC Time Constant = 9.990e-05 +/- 3.175e-08
+		Voffset = 1.307e-01 +/- 2.270e-04
+
+Part 2: Sine)
+	Function Generator:
+		100.0 mVpp
+		2 kHz
+	Resistor: 1kOhm
+	Capacitor: 0.1uF
+	Oscilloscope:
+		Ch1: 20mV
+		Ch2: 20mV
+		Time: 50us
+	Info:
+		Chi2/dof = 1.095e+00
+		RC Time Constant = 1.038e-04 +/- 2.293e-08
+		Frequency = 1.258e+04 +/- 1.038e+00
+		Voffset = 1.374e-03 +/- 6.104e-06
+
+		Ferq = 2000 +/- 0.2
+
+	Function Generator:
+		500.0 mVpp
+		2 kHz
+	Resistor: 1kOhm
+	Capacitor: 0.1uF
+	Oscilloscope:
+		Ch1: 100mV
+		Ch2: 100mV
+		Time: 100us
+	Info:
+		Chi2/dof = 1.083e+00
+		RC Time Constant = 1.005e-04 +/- 1.581e-08
+		Frequency = 1.256e+04 +/- 3.423e-01
+		Voffset = 4.203e-03 +/- 2.202e-05
+
+	Function Generator:
+		100.0 mVpp
+		100 Hz
+	Resistor: 1kOhm
+	Capacitor: 0.1uF
+	Oscilloscope:
+		Ch1: 500mV
+		Ch2: 20mV
+		Time: 2.50ms
+	Info:
+		Chi2/dof = 1.048e+00
+		RC Time Constant = 9.797e-05 +/- 1.802e-08
+		Frequency = 6.284e+02 +/- 1.612e-02
+		Voffset = 2.542e-02 +/- 1.070e-04
+
+Part 3: Changing Resistance)
+	Sine: Function Generator:
+		50 mVpp
+		2 kHz
+
+Part 4: Changing Capacitance)
+	Sine: Function Generator:
+		50 mVpp
+		2 kHz		

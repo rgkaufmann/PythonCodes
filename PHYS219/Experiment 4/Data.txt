@@ -1,0 +1,35 @@
+4.2)
+	Function Generator Start:
+		Frequency: 100Hz
+		Amplitude: 20mVpp
+		OffSet: 0V
+	Resistor 100k: 98870 \pm 20 Ohm
+	Resistor 1k: 987.6 \pm 2 Ohms
+
+	Oscilloscope at low frequency:
+		Ch1: 2V
+		Ch2: 20mV
+		Time: 10ms
+
+	Function Generator Lower Distortion:
+		Frequency: 100Hz
+		Amplitude: 300mVpp
+		OffSet: 0V
+	Oscilloscope:
+		Ch1: 10V
+		Ch2: 100mV
+		Time: 2.5ms
+
+	Function Generator Upper Distortion:
+		Frequency: 100Hz
+		Amplitude: 300mVpp
+		Offset: -100mVDC
+	Oscilloscope:
+		Ch1: 10V
+		Ch2: 100mV
+		Time: 2.5ms
+4.2.5)
+	Function Generator Start:
+		Frequency: 100Hz
+		Amplitude: 60mVrms
+		Offset: 0mVDC

@@ -1,0 +1,2 @@
+Multiplicity of number 5: 851067158781646592
+Multiplicity of number 6: 540254227824990208

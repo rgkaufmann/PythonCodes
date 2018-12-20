@@ -1,0 +1,13 @@
+Name: Fr. Rhinehardt
+Info: Fr. Rhinehardt\t\t3\t2\t6\t4
+Char: Prof. Longfellow
+SPED: 7 7 6 5 4 3 3 2 0
+MIGT: 7 5 5 4 4 2 2 1 0
+SANT: 8 7 7 6 5 5 4 3 0
+KNOW: 8 6 6 5 4 3 3 1 0
+AGE : 62
+HGHT: 5'9"
+WGHT: 185 lbs.
+HOBS: Fencing, Gardening
+BRTD: April 29th
+DESC: Father Rhinehardt was born in Munchen, Germany (or Munich, as Americans call it). He moved with his family to America when he was 15...and then go beaten up for the next three years. Father Rhinehardt turned to religion for the reasons why people treated him so badly. Eventually, he entered Seminary and became a priest. Since that day, long ago, many people have confessed their sins to him. But there is one man who haunts him, every few years, a stranger who sits in the confessional and whispers of murder and madness. In recent years, Father Rhinehardt has found he's starting to agree with the madman's arguments. Blood, pain, death-they are all a part of life, of God's plan, are they not?

@@ -1,0 +1,13 @@
+Name: Darrin \"Flash\" Williams
+Info: Darrin \"Flash\" Williams\t6\t3\t3\t3
+Char: Ox Bellows
+SPED: 8 7 7 6 5 4 4 4 0
+MIGT: 7 6 6 5 4 3 3 2 0
+SANT: 7 5 5 5 4 3 2 1 0
+KNOW: 7 5 5 5 4 3 3 2 0
+AGE : 20
+HGHT: 5'11"
+WGHT: 188 lbs
+HOBS: Track, Music, Shakespearean Literature
+BRTD: June 6th
+DESC: Flash isn't the most original name ever for someone as fast as Darrin. But he likes it. It's comfortable and it fits him, just like his favorite pair of track shoes. Darrin lives to run and runs to live. When he's not running, Darrin feels like ther's something coming for him...something Not Good. Even when he runs, the wind sometimes whispers in his ears, and he swears he can hear the Not Good Thing coming up behind him-fast. No wonder he's the star of the track team.

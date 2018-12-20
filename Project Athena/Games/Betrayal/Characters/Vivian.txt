@@ -1,0 +1,13 @@
+Name: Vivian Lopez
+Info: Vivian Lopez\t\t4\t2\t4\t5
+Char: Madame Zostra
+SPED: 8 7 6 4 4 4 4 3 0
+MIGT: 6 6 5 4 4 2 2 2 0
+SANT: 8 8 7 6 5 4 4 4 0
+KNOW: 7 6 6 5 5 5 5 4 0
+AGE : 42
+HGHT: 5'5"
+WGHT: 142 lbs
+HOBS: Old Movies, Horses
+BRTD: January 11th
+DESC: Vivian's perfect day is to get up late, have coffee and doughnuts, and then ride one of her horses all day. Unfortunately, she doesn't get to spend too many days like that, since she's so busy trying to keep her little used book store from going under. Some days she gets so frustrated she just feels like burning the place down, or maybe just burning down the little shed out back...or the school. But she'd never do anything like that. Still, sometimes she has nightmares about striking the match...

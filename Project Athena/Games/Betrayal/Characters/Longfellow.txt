@@ -1,0 +1,13 @@
+Name: Prof. Longfellow
+Info: Prof. Longfellow\t4\t3\t3\t5
+Char: Fr. Rhinehardt
+SPED: 6 6 5 5 4 4 2 2 0
+MIGT: 6 6 5 5 4 3 2 1 0
+SANT: 7 6 5 5 4 3 3 1 0
+KNOW: 8 7 6 5 5 5 5 4 0
+AGE : 57
+HGHT: 5'11"
+WGHT: 153 lbs.
+HOBS: Gaelic Music, Drama, Fine Wines
+BRTD: July 27th
+DESC: Professor Josiah Longfellow is very proud of his aristocratic roots. His family used to have money...at least until his father lost it all on gambling and alcohol. The professor still lives with his aging mother in the rundown Victorian that used to be the finest house in town. His father disappeared one day. Ran out. His mother has a rather large life insurance policy, but of course, he doesn't want to collect on it any time soon, no matter how nice the money would be.

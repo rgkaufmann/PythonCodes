@@ -1,0 +1,13 @@
+Name: Ox Bellows
+Info: Ox Bellows\t\t4\t5\t3\t3
+Char: Darrin \"Flash\" Williams
+SPED: 6 5 5 4* 3 2 2 2 0
+MIGT: 8 8 7 6 6 5* 5 4 0
+SANT: 7 6 5 5 4 3* 2 2 0
+KNOW: 6 6 5 5 3 3* 2 2 0
+AGE : 23
+HGHT: 6'4"
+WGHT: 288 lbs.
+HOBS: Football, Shiny Objects
+BRTD: October 18th
+DESC: Ox Bellows was always a big kid. Never got beaten up. Always did the beating up...but only when he had to do it. (Well, except for that one time.) Ox doesn't like to think about that, but the blood and screams creep into his dreams on cold, lonely nights. His greatest fear is of the dark.

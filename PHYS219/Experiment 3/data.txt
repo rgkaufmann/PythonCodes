@@ -1,0 +1,66 @@
+4.1)
+	Triple Output Power Supply
+		5Volt input
+	Keithley DDM
+		DC Voltage, 20V
+	HP DDM
+		DC Voltage
+	10kOhm Resistor, HP:
+		9843.9 \pm 0.6 Ohms
+
+First Fit:
+Chi2/dof = 4.211303973652435
+I0 = 2.407e-09 +/- 6.429e-11
+k_B/e = 1.564e-04 +/- 3.599e-07
+
+Second Fit:
+Chi2/dof = 2.223877266887386
+I0 = 1.944e-09 +/- 6.568e-11
+k_B/e = 1.537e-04 +/- 4.320e-07
+Voff = 2.532e-06 +/- 2.315e-07
+
+4.2)
+	Oscilloscope w/o Capacitor:
+		Ch1: 200mV
+		Ch2: 500mV
+		Time: 5ms
+	Oscilloscope w/ Capacitor and 1kOhm resistor:
+		Ch1: 200mV
+		Ch2: 500mV
+		Time: 5ms
+		Resistor, HP: 985.28 \pm 0.02 Ohms
+	Oscilloscope w/ Capacitor and 100kOhm resistor:
+		Ch1: 200mV
+		Ch2: 500mV
+		Time: 5ms
+		Resistor, HP: 99219 \pm 2 Ohms
+	Oscilloscope w/ Capacitor and 1MOhm resistor:
+		Ch1: 200mV
+		Ch2: 500mV
+		Time: 5ms
+		Resistor, HP: 1023480 \pm 10 Ohms
+
+5.2)
+	Function Generator:
+		Frequency: 1kHz
+		Amplitude: 1V
+		DCOffsets: 1.5V
+	Resistor 100: 98.46 \pm 0.01
+	Resistor 1k #1: 0.9860 \pm 0.0002
+	Resistor 1k #2: 0.9824 \pm 0.0002
+5.3)
+	Function Generator:
+		Frequency: 1 kHz
+		DCOffsets: 3V	
+	Resistor RC = 9.8724 \pm 0.0003 kOhm
+	Resistor RB = 9.8630 \pm 0.0005 kOhm
+
+With Exponential:
+Chi2/dof = 1.800275275163574
+gain = 1.227e-02 +/- 7.571e-04
+y intercept = -2.568e-03 +/- 7.193e-04
+
+Without Exponential:
+Chi2/dof = 1.3064115616932643
+gain = 9.776e-03 +/- 3.902e-04
+y intercept = -1.196e-03 +/- 3.324e-04

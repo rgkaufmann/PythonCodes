@@ -1,0 +1,24 @@
+         37130271 function calls in 100.279 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   100000   66.223    0.001   66.223    0.001 {built-in method builtins.print}
+  1429886   14.903    0.000   21.481    0.000 C:\Users\ryank\Anaconda3\lib\site-packages\numpy\lib\function_base.py:4703(delete)
+   200276    3.633    0.000    4.231    0.000 {method 'shuffle' of 'mtrand.RandomState' objects}
+   100000    3.160    0.000    3.160    0.000 {method 'randint' of 'mtrand.RandomState' objects}
+  2859772    2.886    0.000    2.886    0.000 {built-in method numpy.core.multiarray.array}
+   701176    1.844    0.000    1.844    0.000 C:\Users\ryank\Desktop\Work\Classes\Coding Projects\Python\Monopoly\BasicMonopoly\BasicMonopoly.py:5(tileChance)
+ 19999868    1.792    0.000    1.792    0.000 {built-in method builtins.len}
+  2859772    1.117    0.000    4.003    0.000 C:\Users\ryank\Anaconda3\lib\site-packages\numpy\core\numeric.py:424(asarray)
+  1429886    0.997    0.000    0.997    0.000 {built-in method numpy.core.multiarray.empty}
+   728710    0.847    0.000    0.847    0.000 C:\Users\ryank\Desktop\Work\Classes\Coding Projects\Python\Monopoly\BasicMonopoly\BasicMonopoly.py:44(tileCommunity)
+   200276    0.701    0.000    0.701    0.000 {built-in method numpy.core.multiarray.arange}
+  2859772    0.698    0.000    0.698    0.000 {built-in method builtins.isinstance}
+  1429886    0.575    0.000    0.575    0.000 {built-in method numpy.core.multiarray.normalize_axis_index}
+   400552    0.505    0.000    0.505    0.000 C:\Users\ryank\Anaconda3\lib\site-packages\numpy\core\_internal.py:243(__init__)
+  1429886    0.305    0.000    0.305    0.000 {method 'item' of 'numpy.ndarray' objects}
+   400552    0.093    0.000    0.093    0.000 C:\Users\ryank\Anaconda3\lib\site-packages\numpy\core\_internal.py:268(get_data)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

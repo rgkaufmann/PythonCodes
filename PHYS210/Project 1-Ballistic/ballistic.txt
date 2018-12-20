@@ -1,0 +1,12 @@
+The object has initial conditions with:
+	Drag of 0.7kg/s
+	Mass of 0.1kg
+	Gravitational acceleration of 9.81m/s^2
+	Initial x-direction velocity of 10m/s
+	Initial y-direction velocity of 10m/s
+
+The distance the object travels is 1.4281237549902357m
+The object has a maximum height of 1.008874178622059m
+The object has an air time of [ 1.1525888]s
+The object has a final velocity of <[[ 0.00313372]], [[-1.39785569]]> m/s
+The object has a final velocity magnitude of [[ 1.3978592]]m/s

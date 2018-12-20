@@ -1,0 +1,77 @@
+4.1)
+Function Generator
+	Vpp = 1.000V
+	Voff = 500mV
+	Freq = 2.3 kHz
+Oscilloscope
+	Ch1: 50.0mV
+	Ch2: 500.mV
+	Time: 20mus
+Inductors
+	20 mH
+	4*5mH 1% error
+Capacitor
+
+Resistor 1kOhm
+	0.99569 \pm 0.00010
+Resistor 100Ohm
+	104.978 \pm 0.0005
+
+Chi2/dof = 1.332514875
+Amplitude(2Vo/wot) = -1.006e-03 \pm 3.686e-05
+Relazation Time (t)= +4.097e-05 \pm 3.121e-07
+Frequency(f)       = +3.489e+04 \pm 2.875e+01
+Phase Shift(phi)   = +2.132e+00 \pm 3.574e-02
+
+4.2)
+Function Generator
+	Vpp = 1.000V
+	Voff = 0V
+
+Chi2/dof = 1.975319289530726
+Amplitude  = +4.882e-1 \pm 3.173e-2
+Frequency  = +3.490e+4 \pm 3.272e+2
+gamma      = +3.601e+4 \pm 3.293e+3
+background = -1.804e-3 \pm 9.165e-4 
+
+4.4)
+
+Function Generator:
+	Vpp = 1.000V
+	Voff = 500mV
+	Frequency = 1000 Hz
+
+ysigma=0.000555
+Chi2/dof = 0.8609399154754911
+Amplitude(2Vo/wot) = +2.211e-3 \pm 3.237e-5
+Relazation Time (t)= +2.178e-4 \pm 1.708e-6
+Frequency(f)       = +3.527e+4 \pm 5.738e+0
+Phase Shift(phi)   = +5.358e+0 \pm 1.463e-2
+
+ysigma=0.0002775
+Chi2/dof = 1.00084017
+Amplitude(2Vo/wot) = +2.220e-3 \pm 1.624e-5
+Relazation Time (t)= +2.185e-4 \pm 8.592e-7
+Frequency(f)       = +3.527e+4 \pm 2.868e+0
+Phase Shift(phi)   = +5.360e+0 \pm 7.308e-3
+Offset(Voff)	   = -4.325e-4 \pm 1.242e-5
+
+4.5)
+Function Generator:
+	Vpp = 1.000V
+	Voff = 0V
+	Freq = 34990 Hz
+		Chi2 CH1 = 0.8793016663800616
+		PhaseCH1 = -1.31331e+0 \pm 1.021e-2
+		Chi2 CH2 = 1.0889551646511233
+		PhaseCH2 = +1.63452e-1 \pm 3.275e-4
+	Freq = 2000 Hz
+		Chi2 CH1 = 1.1977746371501725
+		PhaseCH1 = -1.01827e+0 \pm 1.059e-1
+		Chi2 CH2 = 1.0889551646511233
+		PhaseCH2 = +3.82580e-1 \pm 1.535e-4
+	Freq = 100000 Hz
+		Chi2 CH1 = 0.9898546355054885
+		PhaseCH1 = +3.16445e-1 \pm 1.676e-1
+		Chi2 CH2 = 0.918405422726971
+		PhaseCH2 = +2.74665e-1 \pm 3.268e-4

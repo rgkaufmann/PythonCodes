@@ -1,0 +1,12 @@
+         12020101 function calls in 150.316 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  4000000  136.831    0.000  136.831    0.000 {built-in method builtins.print}
+  4000000    8.477    0.000    8.477    0.000 C:\Users\ryank\Desktop\Work\Classes\Coding Projects\Python Review\Optimization.py:5(Func)
+  4000000    4.997    0.000    4.997    0.000 {method 'format' of 'str' objects}
+    20100    0.011    0.000    0.011    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

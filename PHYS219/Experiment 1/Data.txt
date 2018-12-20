@@ -1,0 +1,36 @@
+	Notes for Experiment 1:
+Frequency generator:
+	3.333,333,3 second period
+	500 mVolt offset
+	1 Voltpp Amplitude
+
+	63.333,333ms period
+	1Voltpp Amplitude
+	500.0mV offset
+Oscilloscope:
+	Ch1 500mV
+	Ch2 500mV
+	Time 2.000s (went down to 500ms when analyzing)
+1MegaOhm:
+	Top Voltage: 0.5 Volts \pm instrument error
+	1/eMax: 0.183939 Volts
+	Measured Voltage: 184mV
+	Tao approximation: 246.0ms \pm 1ms
+	Ch1 50mV
+	Time 50ms
+	Resistance: 1.00380 \pm 0.00015 MOhms
+10kOhm:
+	Top Voltage: 960 mV
+	1/eMax: 353.164 mV
+	Measured Voltage: 360mV
+	Tao: 4.84ms
+	Ch1: 100mV
+	Time: 1ms
+	Resistance: 9.8525 \pm 0.0005 kOhm
+
+Section 5 data:
+
+10kOhm Resistance remade:
+	9.8555 \pm 0.0020 kOhm
+
+10-15% manufacturer difference on capacitor

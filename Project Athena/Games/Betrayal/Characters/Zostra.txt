@@ -1,0 +1,13 @@
+Name: Madame Zostra
+Info: Madame Zostra\t\t3\t4\t4\t4
+Char: Vivian Lopez
+SPED: 7 6 6 5 5 3 3 2 0
+MIGT: 6 5 5 5 4 3 3 2 0
+SANT: 8 8 7 6 5 4 4 4 0
+KNOW: 6 6 5 4 4 4 3 1 0
+AGE : 37
+HGHT: 5'0"
+WGHT: 150 lbs.
+HOBS: Astrology, Cooking, Baseball
+BRTD: December 10th
+DESC: Madame Zostra, or \"Belladina\" (as her mother named her), has been a tarot and tea-leaf reader since college. She started out working part time sitting in the window of an occult bookstore, but now she has her own home astrology business. Although Madame Zostra reads cards for a living, she won't ever read her own cards. She is terrified that she'll see her own death in the cards, something she can't bear to think about.

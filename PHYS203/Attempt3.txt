@@ -1,0 +1,9 @@
+Multiplicity of number 5: 5560264045880065
+Multiplicity of number 6: 3778174625582098
+
+Real Multiplicity of number 5: 5463580312944000
+Real Multiplicity of number 6: 3708054907903500
+
+Accuracy of number 5: 1.017696
+Accuracy of number 6: 1.018910
+
