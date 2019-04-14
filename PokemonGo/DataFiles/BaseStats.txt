@@ -1,0 +1,9 @@
+Bulbasaur,118,111,128,1115
+Ivysaur,151,143,155,1699
+Venusaur,198,189,190,2720
+Charmander,116,93,118,980
+Charmeleon,158,126,151,1653
+Charizard,223,173,186,2889
+Squirtle,94,121,127,946
+Wartortle,126,155,153,1488
+Blastoise,171,207,188,2466

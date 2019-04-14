@@ -2,57 +2,25 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def uniform(n, k):
-    probability = 0
-    if (n == 1):
-        if (k <= 0) or (k >= 4):
-            return 0
-        else:
-            return 1.0/3.0
-    for value in range(1, 4):
-        if float(k-value)/float(n-1) < 1:
-            return probability
-        elif float(k-value)/float(n-1) > 3:
-            probability += 0
-        else:
-            probability += 1.0/3.0*uniform(int(n-1), int(k-value))
-        print str(n)+", "+str(k)+", "+str(value)
-        print probability
-    return probability
+def convolution(array, n):
+    if n > 1:
+        return np.convolve(array, convolution(array, n-1))
+    elif n == 1:
+        return array
 
 
-def alluniform(n):
-    probabilities = []
-    for value in range(1*n, 3*n+1):
-        probabilities.append(uniform(n, value))
-        print "-----------------"
-    return probabilities
+for sval in [1, 2, 3, 4, 5, 10, 50]:
+    S = convolution([1.0/3.0, 1.0/3.0, 1.0/3.0], sval)
+    plt.bar(np.arange(1*sval, 3*sval+1), S)
+    plt.title("Addition of {:d} Uniform Random Variables".format(sval), fontsize=40)
+    plt.xlabel("Outcome of Random Variable", fontsize=32)
+    plt.ylabel("Probability of Outcome", fontsize=32)
+    plt.show()
 
-
-S1 = alluniform(1)
-plt.bar(np.arange(1, 4), S1)
-plt.show()
-
-S2 = alluniform(2)
-plt.bar(np.arange(2, 7), S2)
-plt.show()
-
-S3 = alluniform(3)
-plt.bar(np.arange(3, 10), S3)
-plt.show()
-
-S4 = alluniform(4)
-plt.bar(np.arange(4, 13), S4)
-plt.show()
-
-S5 = alluniform(5)
-plt.bar(np.arange(5, 16), S5)
-plt.show()
-
-S10 = alluniform(10)
-plt.bar(np.arange(10, 31), S10)
-plt.show()
-
-S50 = alluniform(50)
-plt.bar(np.arange(50, 151), S50)
-plt.show()
+for tval in [1, 2, 3, 4, 5, 10, 50]:
+    T = convolution([1.0/15.0, 1.0/15.0, 11.0/15.0, 1.0/15.0, 1.0/15.0], tval)
+    plt.bar(np.arange(0*tval, 4*tval+1), T)
+    plt.title("Addition of {:d} Random Variables Y".format(tval), fontsize=40)
+    plt.xlabel("Outcome of Random Variable", fontsize=32)
+    plt.ylabel("Probability of Outcome", fontsize=32)
+    plt.show()

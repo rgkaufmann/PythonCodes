@@ -5,6 +5,10 @@
     <orderEntry type="jdk" jdkName="Catch-All" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ASTR407" />
+    <orderEntry type="module" module-name="PHYS401" />
+    <orderEntry type="module" module-name="PHYS306" />
+    <orderEntry type="module" module-name="PHYS402" />
+    <orderEntry type="module" module-name="PHYS304" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

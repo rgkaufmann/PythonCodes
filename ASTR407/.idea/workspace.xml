@@ -10,11 +10,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignment 2/Assignment2.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment 5/Assignment5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="65" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
+            <state relative-caret-position="17">
+              <caret line="2" column="38" selection-start-line="2" selection-end-line="2" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignment 6/Assignment6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -46,13 +58,15 @@
         <option value="$PROJECT_DIR$/Assignment 1/Assignment1-3.py" />
         <option value="$PROJECT_DIR$/Assignment 1/Assignment1-2.py" />
         <option value="$PROJECT_DIR$/Assignment 2/Assignment2.py" />
+        <option value="$PROJECT_DIR$/Assignment 5/Assignment5.py" />
+        <option value="$PROJECT_DIR$/Assignment 6/Assignment6.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -69,16 +83,6 @@
               <item name="ASTR407" type="b2602c69:ProjectViewProjectNode" />
               <item name="ASTR407" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ASTR407" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ASTR407" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ASTR407" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ASTR407" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment 2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -90,11 +94,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MATH318" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ryank\Desktop\Github\PythonCodes\ASTR407" />
+      <recent name="C:\Users\ryank\Desktop\Github\PythonCodes\ASTR407\Assignment 1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ryank\Desktop\Github\PythonCodes\ASTR407\Assignment 2" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ryank\Desktop\Github\PythonCodes\ASTR407\Assignment 1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -109,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Assignment2">
+  <component name="RunManager" selected="Python.Assignment6">
     <configuration name="Assignment1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ASTR407" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,8 +157,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Assignment5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASTR407" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment 5/Assignment5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASTR407" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment 6/Assignment6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Assignment6" />
+        <item itemvalue="Python.Assignment5" />
         <item itemvalue="Python.Assignment2" />
         <item itemvalue="Python.Assignment1" />
       </list>
@@ -180,7 +229,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42634562" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4312321" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,6 +291,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="65" selection-start-line="26" selection-start-column="65" selection-end-line="26" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment 4/Assignment4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-end-line="101" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment 5/Assignment5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="38" selection-start-line="2" selection-end-line="2" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment 6/Assignment6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
