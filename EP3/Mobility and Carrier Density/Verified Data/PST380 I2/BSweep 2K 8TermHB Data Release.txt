@@ -1,0 +1,22 @@
+PST380 I2 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		0.70546068230567 +/- 0.0008555599905435991	Ohms/T^2
+Rxx Linear-Parabolic Offset:		3202.550719908311 +/- 0.07430536307433841	Ohms
+Rxx Linear-Parabolic Critical B-Field:	7.752499884478311 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		13.191809755577745 +/- 0.002798538607911632	Ohms/T
+Rxy Linear Offset:		-1.0647148345362776 +/- 0.0008694194951680235	Ohms
+
+Carrier Density and Mobility:
+2-D Carrier Density:	4.731352e+13 +/- 1.003719e+10	1/cm^2
+3-D Carrier Density:	2.365676e+19 +/- 5.018595e+15	1/cm^3
+Mobility:		1.235747e+02 +/- 2.637173e-02	cm^2/(V*s)
+
+Recorded Data:
+3-D Carrier Density:	1.168581e+20	1/cm^3
+Mobility:		1.168581e+20	cm^2/(V*s)
+
+Data Discrepancy:
+3-D Carrier Density:	-9.320134e+19	1/cm^3
+3-D Carrier Density:	-1.857120e+04	Sigmas
+Mobility:		-1.168581e+20	cm^2/(V*s)Mobility:		-4.431189e+21	Sigmas

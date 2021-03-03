@@ -1,0 +1,5 @@
+PST380:
+
+Rxx Parameters:
+	SlopeLinPos	OffsetLinPos	SlopeLinNeg	OffsetLinNeg	SlopePar	OffsetPar	Cutoff
+[0.13143497849432223, 643.8985716558935, 9.0009765625]

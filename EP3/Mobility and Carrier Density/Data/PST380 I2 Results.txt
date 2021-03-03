@@ -1,0 +1,17 @@
+PST380 Data Release:
+2D Carrier Density: 2.337162e+14
+3D Carrier Density: 1.168581e+20
+Mobility: 124.35786378222873
+
+Initial Rxy Parameters:
+[ 2.67175041 -0.29012973]
+
+Rxx Parameters:
+[1.20170243e-01 6.44241571e+02]
+
+Adjusted Rxy Parameters:
+[2.67055018 0.00355082]
+
+Linear Rxx Parameters:
+[ -2.65252319 629.62344693]
+[  2.65765128 629.61292583]

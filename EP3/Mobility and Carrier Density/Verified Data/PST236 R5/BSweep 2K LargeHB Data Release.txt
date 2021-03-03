@@ -1,0 +1,22 @@
+PST236 R5 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		1.313541645179595 +/- 0.001594379416476703	Ohms/T^2
+Rxx Linear-Parabolic Offset:		680.1072663969668 +/- 0.13497896835410203	Ohms
+Rxx Linear-Parabolic Critical B-Field:	2.25879999999961 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		0.8490932644830925 +/- 0.0006841729722985023	Ohms/T
+Rxy Linear Offset:		2.5634523480110216 +/- 0.00229189331969813	Ohms
+
+Carrier Density and Mobility:
+2-D Carrier Density:	7.350793e+14 +/- 5.923041e+11	1/cm^2
+3-D Carrier Density:	8.167548e+18 +/- 6.581157e+15	1/cm^3
+Mobility:		3.745409e+01 +/- 3.108132e-02	cm^2/(V*s)
+
+Recorded Data:
+3-D Carrier Density:	7.300000e+18	1/cm^3
+Mobility:		9.200000e+01	cm^2/(V*s)
+
+Data Discrepancy:
+3-D Carrier Density:	8.675482e+17	1/cm^3
+3-D Carrier Density:	1.318231e+02	Sigmas
+Mobility:		-5.454591e+01	cm^2/(V*s)Mobility:		-1.754942e+03	Sigmas

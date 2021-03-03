@@ -1,0 +1,22 @@
+PST441 H3 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		0.3905638153716727 +/- 0.0007457603245517345	Ohms/T^2
+Rxx Linear-Parabolic Offset:		202.87905905774994 +/- 0.061327040130552624	Ohms
+Rxx Linear-Parabolic Critical B-Field:	3.9936999999990803 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		-1.8648531787630576 +/- 0.0010301714991404437	Ohms/T
+Rxy Linear Offset:		0.32701054879001645 +/- 0.0006902770615578593	Ohms
+
+Carrier Density and Mobility:
+2-D Carrier Density:	3.346917e+14 +/- 1.848885e+11	1/cm^2
+3-D Carrier Density:	3.718797e+19 +/- 2.054316e+16	1/cm^3
+Mobility:		2.757584e+02 +/- 1.736483e-01	cm^2/(V*s)
+
+Recorded Data:
+3-D Carrier Density:	3.602220e+19	1/cm^3
+Mobility:		3.602220e+19	cm^2/(V*s)
+
+Data Discrepancy:
+3-D Carrier Density:	1.165769e+18	1/cm^3
+3-D Carrier Density:	5.674727e+01	Sigmas
+Mobility:		-3.602220e+19	cm^2/(V*s)Mobility:		-2.074434e+20	Sigmas

@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Audio Fingerprinting (Complete)/.idea/Audio Fingerprinting (Complete).iml" filepath="$PROJECT_DIR$/../Audio Fingerprinting (Complete)/.idea/Audio Fingerprinting (Complete).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Clean Tech/.idea/Clean Tech.iml" filepath="$PROJECT_DIR$/../Clean Tech/.idea/Clean Tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../D&amp;D/.idea/D&amp;D.iml" filepath="$PROJECT_DIR$/../D&amp;D/.idea/D&amp;D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Monopoly/.idea/Monopoly.iml" filepath="$PROJECT_DIR$/../Monopoly/.idea/Monopoly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Muon Flux Simulations/.idea/Muon Flux Simulations.iml" filepath="$PROJECT_DIR$/../Muon Flux Simulations/.idea/Muon Flux Simulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../N-Body Simulator/.idea/N-Body Simulator.iml" filepath="$PROJECT_DIR$/../N-Body Simulator/.idea/N-Body Simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PHYS210/.idea/PHYS210.iml" filepath="$PROJECT_DIR$/../PHYS210/.idea/PHYS210.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PokemonGo.iml" filepath="$PROJECT_DIR$/.idea/PokemonGo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Project Athena/.idea/Project Athena.iml" filepath="$PROJECT_DIR$/../Project Athena/.idea/Project Athena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../STEM ACES Fall/.idea/STEM ACES Fall.iml" filepath="$PROJECT_DIR$/../STEM ACES Fall/.idea/STEM ACES Fall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Song Visualizer (SongSim Redux) (Complete)/.idea/Song Visualizer (SongSim Redux) (Complete).iml" filepath="$PROJECT_DIR$/../Song Visualizer (SongSim Redux) (Complete)/.idea/Song Visualizer (SongSim Redux) (Complete).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tkinter Test/.idea/Tkinter Test.iml" filepath="$PROJECT_DIR$/../Tkinter Test/.idea/Tkinter Test.iml" />
     </modules>
   </component>
 </project>

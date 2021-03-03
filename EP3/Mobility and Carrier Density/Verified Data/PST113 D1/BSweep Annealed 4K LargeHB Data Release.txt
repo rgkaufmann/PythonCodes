@@ -1,0 +1,22 @@
+PST113 D1 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		3.3830383760571694 +/- 0.005509460223800326	Ohms/T^2
+Rxx Linear-Parabolic Offset:		545.920200122599 +/- 0.14857212512253548	Ohms
+Rxx Linear-Parabolic Critical B-Field:	3.461699999999837 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		9.791593039031493 +/- 0.013126120996182659	Ohms/T
+Rxy Linear Offset:		1.1732192783305613 +/- 0.00785189390506143	Ohms
+
+Carrier Density and Mobility:
+2-D Carrier Density:	6.374355e+13 +/- 8.545142e+10	1/cm^2
+3-D Carrier Density:	9.658114e+18 +/- 1.294719e+16	1/cm^3
+Mobility:		5.380783e+02 +/- 7.360352e-01	cm^2/(V*s)
+
+Recorded Data:
+3-D Carrier Density:	3.900000e+18	1/cm^3
+Mobility:		7.330000e+02	cm^2/(V*s)
+
+Data Discrepancy:
+3-D Carrier Density:	5.758114e+18	1/cm^3
+3-D Carrier Density:	4.447387e+02	Sigmas
+Mobility:		-1.949217e+02	cm^2/(V*s)Mobility:		-2.648266e+02	Sigmas

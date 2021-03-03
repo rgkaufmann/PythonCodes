@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50c8ad95-de5d-4c95-95b9-974836193e7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ryank.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiceRoller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Organizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Aarakocra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Aasimar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Bugbear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Centaur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Changeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Dragonborn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Dwarf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Firbolg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Genasi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Races/Gith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VariousLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EP3/Mobility and Carrier Density/.idea/Mobility and Carrier Density.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EP3/Mobility and Carrier Density/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EP3/Mobility and Carrier Density/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EP3/Mobility and Carrier Density/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EP3/Mobility and Carrier Density/Analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EP3/Mobility and Carrier Density/DensityClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EP3/Mobility and Carrier Density/MobilityClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PokemonGo/DataFiles/Pokedex.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Character Options/ClassOptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Character Options/RaceOptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DnDOrganizerTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Race Files/Aarakocra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Race Files/Aarakocra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Race Files/Additional Files/Dragonborn Chart.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Race Files/Centaur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Race Files/Changeling.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Race Files/Dragonborn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGo/.idea/PokemonGo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGo/.idea/PokemonGo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGo/DataFiles/BaseStats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGo/DataFiles/BaseStats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGo/DataHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGo/DataHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PokemonGo/MainCompiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PokemonGo/MainCompiler.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Races/Changeling.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Races/Gith.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Organizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VariousLists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="93" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RO</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DnDOrganizerTest.py" />
+        <option value="$PROJECT_DIR$/Race Files/Aarakocra.py" />
+        <option value="$PROJECT_DIR$/Races/DiceRoller.py" />
+        <option value="$PROJECT_DIR$/DiceRoller.py" />
+        <option value="$PROJECT_DIR$/Races/Aarakocra.py" />
+        <option value="$PROJECT_DIR$/Player.py" />
+        <option value="$PROJECT_DIR$/Races/Bugbear.py" />
+        <option value="$PROJECT_DIR$/Races/Dragonborn.py" />
+        <option value="$PROJECT_DIR$/Races/Aasimar.py" />
+        <option value="$PROJECT_DIR$/Races/Centaur.py" />
+        <option value="$PROJECT_DIR$/Races/Firbolg.py" />
+        <option value="$PROJECT_DIR$/Races/Dwarf.py" />
+        <option value="$PROJECT_DIR$/Races/Genasi.py" />
+        <option value="$PROJECT_DIR$/Races/Gith.py" />
+        <option value="$PROJECT_DIR$/../PokemonGo/DataFiles/BaseStats.txt" />
+        <option value="$PROJECT_DIR$/../PokemonGo/DataFiles/Pokedex.txt" />
+        <option value="$PROJECT_DIR$/../PokemonGo/MainCompiler.py" />
+        <option value="$PROJECT_DIR$/../PokemonGo/DataHandler.py" />
+        <option value="$PROJECT_DIR$/Races/VariousLists.py" />
+        <option value="$PROJECT_DIR$/Races/Changeling.py" />
+        <option value="$PROJECT_DIR$/Organizer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="D&amp;D" type="b2602c69:ProjectViewProjectNode" />
+              <item name="D&amp;D" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="D&amp;D" type="b2602c69:ProjectViewProjectNode" />
+              <item name="D&amp;D" type="462c0819:PsiDirectoryNode" />
+              <item name="Races" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\D&amp;D" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MainCompiler">
+    <configuration name="DnDOrganizerTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="D&amp;D" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DnDOrganizerTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainCompiler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PokemonGo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PokemonGo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PokemonGo/MainCompiler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Organizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="D&amp;D" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Organizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MainCompiler" />
+        <item itemvalue="Python.Organizer" />
+        <item itemvalue="Python.DnDOrganizerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50c8ad95-de5d-4c95-95b9-974836193e7d" name="Default Changelist" comment="" />
+      <created>1557861625259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557861625259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115587845" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34229138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14068693" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3281471" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Character Options/RaceOptions.py" />
+    <entry file="file://$PROJECT_DIR$/Character Options/ClassOptions.py" />
+    <entry file="file://$PROJECT_DIR$/DnDOrganizerTest.py" />
+    <entry file="file://$PROJECT_DIR$/Races/Bugbear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Dragonborn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="58" column="29" lean-forward="true" selection-end-line="58" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Centaur.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="36" column="62" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Dwarf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="26" column="71" selection-end-line="72" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Genasi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiceRoller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PokemonGo/DataFiles/BaseStats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8432">
+          <caret line="496" column="32" selection-end-line="551" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PokemonGo/DataHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PokemonGo/MainCompiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PokemonGo/DataFiles/Pokedex.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Firbolg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="40" lean-forward="true" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Aarakocra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Aasimar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Changeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Organizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VariousLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="93" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Races/Gith.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

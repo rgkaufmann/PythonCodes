@@ -1,0 +1,22 @@
+PST442 H2 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		0.7153092764202914 +/- 0.001078614477669078	Ohms/T^2
+Rxx Linear-Parabolic Offset:		323.7226027325854 +/- 0.08655751385427053	Ohms
+Rxx Linear-Parabolic Critical B-Field:	5.015699999999924 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		2.153572249266914 +/- 0.0007711901482769886	Ohms/T
+Rxy Linear Offset:		-0.21356390924636381 +/- 0.00037654740942119483	Ohms
+
+Carrier Density and Mobility:
+2-D Carrier Density:	2.898212e+14 +/- 1.037844e+11	1/cm^2
+3-D Carrier Density:	3.220236e+19 +/- 1.153160e+16	1/cm^3
+Mobility:		1.995757e+02 +/- 8.919209e-02	cm^2/(V*s)
+
+Recorded Data:
+3-D Carrier Density:	3.257694e+19	1/cm^3
+Mobility:		3.257694e+19	cm^2/(V*s)
+
+Data Discrepancy:
+3-D Carrier Density:	-3.745834e+17	1/cm^3
+3-D Carrier Density:	-3.248321e+01	Sigmas
+Mobility:		-3.257694e+19	cm^2/(V*s)Mobility:		-3.652447e+20	Sigmas

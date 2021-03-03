@@ -1,0 +1,18 @@
+         1767 function calls in 0.021 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       25    0.015    0.001    0.015    0.001 {built-in method io.open}
+       25    0.004    0.000    0.004    0.000 {method 'close' of '_io.TextIOWrapper' objects}
+      323    0.001    0.000    0.001    0.000 {method 'format' of 'str' objects}
+      439    0.000    0.000    0.001    0.000 {method 'write' of '_io.TextIOWrapper' objects}
+      439    0.000    0.000    0.000    0.000 {built-in method _codecs.charmap_encode}
+      439    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\encodings\cp1252.py:18(encode)
+       25    0.000    0.000    0.000    0.000 {built-in method _locale._getdefaultlocale}
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\_bootlocale.py:11(getpreferredencoding)
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\codecs.py:186(__init__)
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

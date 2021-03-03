@@ -1,0 +1,5 @@
+PST189:
+
+Rxx Parameters:
+	SlopeLinPos	OffsetLinPos	SlopeLinNeg	OffsetLinNeg	SlopePar	OffsetPar	Cutoff
+[0.350689554058109, 614.3692229525342, 4.015625]

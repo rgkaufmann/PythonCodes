@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import scipy as spicy
 
+
 class mapPoint:
     def __init__(self, Lat, Long, Type):
         self.coor = (float(Lat), float(Long))
@@ -15,7 +16,8 @@ class mapPoint:
     
     def getType(self):
         return self.type
-        
+
+
 class mappable:
     def __init__(self):
         self.mapPlots = []
@@ -32,7 +34,8 @@ class mappable:
             plt.scatter(point.getLong(), point.getLat(), s=1,
                         c=self.colors.get(point.getType()), marker='s')
         plt.show()
-        
+
+
 file = np.loadtxt("MapCoors.txt", dtype=str, delimiter=',')
 
 BCMap = mappable()

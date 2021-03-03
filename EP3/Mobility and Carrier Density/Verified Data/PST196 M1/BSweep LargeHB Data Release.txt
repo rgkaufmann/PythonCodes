@@ -1,0 +1,22 @@
+PST196 M1 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		0.4531439632495609 +/- 0.0006142486414118816	Ohms/T^2
+Rxx Linear-Parabolic Offset:		261.2717048970497 +/- 0.018080414586138897	Ohms
+Rxx Linear-Parabolic Critical B-Field:	3.5395999472548283 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		2.8553224180627503 +/- 0.002571685142684818	Ohms/T
+Rxy Linear Offset:		2.7637936089659987 +/- 0.003849675701015409	Ohms
+
+Carrier Density and Mobility:
+2-D Carrier Density:	2.185921e+14 +/- 1.968780e+11	1/cm^2
+3-D Carrier Density:	3.643202e+19 +/- 3.281299e+16	1/cm^3
+Mobility:		3.278567e+02 +/- 2.961589e-01	cm^2/(V*s)
+
+Recorded Data:
+3-D Carrier Density:	3.200000e+19	1/cm^3
+Mobility:		3.780000e+02	cm^2/(V*s)
+
+Data Discrepancy:
+3-D Carrier Density:	4.432016e+18	1/cm^3
+3-D Carrier Density:	1.350689e+02	Sigmas
+Mobility:		-5.014332e+01	cm^2/(V*s)Mobility:		-1.693122e+02	Sigmas

@@ -1,0 +1,33 @@
+Name: Ryan
+measurement station: King Louie
+Sample: PST 380 I2
+date: Monday, July 01, 2019
+time: 5:30 PM
+Comment: 
+PST380 I2
+8-Terminal Hall Bar
+July 1st, 2019
+
+Pushing current from 5 to 12
+Measuring Vxx from 3 to 2 using Agilent, GPIB 23
+Measuring Vxy from 8 to 3 using Keysight 1, GPIB 22
+
+Pushing a voltage of 100.0 mV at frequency 37.37Hz
+Through divider of 1224:12
+Reference resistance of 4.9582 Kilohms
+Ref. resistance voltage measured using Keysight 2, GPIB 24
+
+Ref. resistance:Rxx:Rxy sensitivities are 1:0.2:0.01
+Sweeping magnetic field from -14 to 14T at 0.1 T/min
+Start Value B: 0.000000
+End Value B: 0.200000
+---------						
+B field / T	Temperature (Ohm)	I-Keysight 01	Uxx-Keysight 02	Uxy- Ag1 Ch1	Rxx	Rxy
+						
+-0.00000E+0	2.11010E+4	-3.69509E-3	2.74828E+0	9.90000E+37	-7.41172E+5	-2.66988E+43
+3.00000E-3	2.11030E+4	-4.50116E-3	2.74804E+0	9.90000E+37	-6.08388E+5	-2.19176E+43
+8.90000E-3	2.11000E+4	2.97367E-3	2.74741E+0	9.90000E+37	9.20687E+5	3.31760E+43
+1.60000E-2	2.11050E+4	6.84996E-3	2.74689E+0	9.90000E+37	3.99609E+5	1.44022E+43
+2.40000E-2	2.11010E+4	1.04803E-2	2.74648E+0	9.90000E+37	2.61145E+5	9.41328E+42
+3.20000E-2	2.11010E+4	2.05107E-2	2.74595E+0	9.90000E+37	1.33412E+5	4.80991E+42
+4.03000E-2	2.11040E+4	2.40500E-2	2.74552E+0	9.90000E+37	1.13761E+5	4.10206E+42

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Clean Tech/.idea/Clean Tech.iml" filepath="$PROJECT_DIR$/../Clean Tech/.idea/Clean Tech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/D&amp;D.iml" filepath="$PROJECT_DIR$/.idea/D&amp;D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Monopoly/.idea/Monopoly.iml" filepath="$PROJECT_DIR$/../Monopoly/.idea/Monopoly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../N-Body Simulator/.idea/N-Body Simulator.iml" filepath="$PROJECT_DIR$/../N-Body Simulator/.idea/N-Body Simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PokemonGo/.idea/PokemonGo.iml" filepath="$PROJECT_DIR$/../PokemonGo/.idea/PokemonGo.iml" />
+    </modules>
+  </component>
+</project>

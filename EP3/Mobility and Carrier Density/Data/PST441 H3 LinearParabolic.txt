@@ -1,0 +1,5 @@
+PST441:
+
+Rxx Parameters:
+	SlopeLinPos	OffsetLinPos	SlopeLinNeg	OffsetLinNeg	SlopePar	OffsetPar	Cutoff
+[0.38919946208276746, 202.9131049801961, 4.0]

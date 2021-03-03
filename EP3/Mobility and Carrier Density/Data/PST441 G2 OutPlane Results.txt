@@ -1,0 +1,13 @@
+PST441 Data Release:
+2D Carrier Density: 3.523950e+16
+3D Carrier Density: 3.915500e+21
+Mobility: 2.4380182465230673
+
+Initial Rxy Parameters:
+[-0.0177123  -0.00668215]
+
+Rxx Parameters:
+[2.16729224e-01 2.17943628e+02]
+
+Adjusted Rxy Parameters:
+[-0.01771168  0.00024407]

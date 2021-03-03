@@ -1,0 +1,59 @@
+         77330007 function calls in 995.301 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   439922  555.575    0.001  993.906    0.002 C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/Muon Flux Simulations/ReducedSimulation.py:44(momentadecay)
+ 32306040  328.462    0.000  328.462    0.000 C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/Muon Flux Simulations/ReducedSimulation.py:35(bethefunction)
+ 32745962   85.914    0.000   85.914    0.000 {method 'poisson' of 'mtrand.RandomState' objects}
+   979845    8.498    0.000    8.498    0.000 C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/Muon Flux Simulations/ReducedSimulation.py:82(sphericaldistance)
+  1759696    4.389    0.000    5.140    0.000 {built-in method numpy.array}
+   439923    3.285    0.000   13.246    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2093(_get_ufunc_and_otypes)
+   439923    2.088    0.000   23.570    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2154(_vectorize_call)
+   439923    1.053    0.000    1.053    0.000 {built-in method numpy.frompyfunc}
+   439923    1.012    0.000   24.583    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2063(__call__)
+   439923    0.751    0.000    0.751    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\_internal.py:886(npy_ctypes_check)
+   439923    0.648    0.000    0.648    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2120(<listcomp>)
+   439923    0.620    0.000    1.280    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2144(<listcomp>)
+   439923    0.484    0.000    1.539    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2115(<listcomp>)
+   879846    0.404    0.000    1.716    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\numeric.py:469(asarray)
+   439923    0.398    0.000    0.716    0.000 {built-in method builtins.any}
+   879846    0.318    0.000    0.318    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2116(<genexpr>)
+   439923    0.269    0.000    3.287    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2164(<listcomp>)
+   100000    0.267    0.000    0.267    0.000 {method 'normal' of 'mtrand.RandomState' objects}
+  1419766    0.245    0.000    0.245    0.000 {method 'append' of 'list' objects}
+   439926    0.215    0.000    0.215    0.000 {built-in method builtins.isinstance}
+   100000    0.147    0.000    0.414    0.000 C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/Muon Flux Simulations/ReducedSimulation.py:66(posnormal)
+   439923    0.102    0.000    0.102    0.000 {method 'join' of 'str' objects}
+   439934    0.093    0.000    0.093    0.000 {built-in method builtins.len}
+        1    0.056    0.056    0.486    0.486 C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/Muon Flux Simulations/ReducedSimulation.py:71(posnormalarray)
+       10    0.006    0.001    0.006    0.001 {built-in method numpy.where}
+        1    0.002    0.002    0.002    0.002 {method 'rand' of 'mtrand.RandomState' objects}
+       10    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+       10    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       12    0.000    0.000    0.000    0.000 C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/Muon Flux Simulations/ReducedSimulation.py:78(anglebounds)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\function_base.py:37(linspace)
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:2031(__init__)
+        1    0.000    0.000    0.000    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\fromnumeric.py:69(_wrapreduction)
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\lib\function_base.py:258(iterable)
+        1    0.000    0.000    0.000    0.000 {built-in method numpy.arange}
+        1    0.000    0.000    0.000    0.000 {method 'any' of 'numpy.generic' objects}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\fromnumeric.py:2083(any)
+        1    0.000    0.000    0.000    0.000 {built-in method numpy.zeros}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\function_base.py:20(_index_deprecate)
+        1    0.000    0.000    0.000    0.000 {method 'reshape' of 'numpy.ndarray' objects}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\_methods.py:42(_any)
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\numeric.py:541(asanyarray)
+        1    0.000    0.000    0.000    0.000 {built-in method numpy.result_type}
+        1    0.000    0.000    0.000    0.000 {method 'astype' of 'numpy.ndarray' objects}
+        2    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\fromnumeric.py:2847(ndim)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\fromnumeric.py:70(<dictcomp>)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\PokemonGo\venv\lib\site-packages\numpy\core\numeric.py:2035(isscalar)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 {built-in method _operator.index}
+        1    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+
+

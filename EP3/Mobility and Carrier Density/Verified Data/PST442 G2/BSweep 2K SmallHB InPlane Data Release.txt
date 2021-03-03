@@ -1,0 +1,8 @@
+PST442 G2 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		0.10695878697123484 +/- 0.00024621433105710265	Ohms/T^2
+Rxx Linear-Parabolic Offset:		158.61966327445546 +/- 0.02063255382350057	Ohms
+Rxx Linear-Parabolic Critical B-Field:	2.5037999626892997 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		-0.04423279879329606 +/- 0.0005573313801584276	Ohms/T
+Rxy Linear Offset:		0.031468846003995 +/- 0.002387848776928958	Ohms

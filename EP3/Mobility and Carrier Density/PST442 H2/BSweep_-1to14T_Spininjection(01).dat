@@ -1,0 +1,31 @@
+Name: Ryan
+measurement station: King Louie
+Sample: PST 442 H2
+date: Thursday, June 27, 2019
+time: 2:43 PM
+Comment: 
+PST442 H2
+8-Terminal Hall Bar
+June 27th, 2019
+
+Pushing current from 6 to A
+Measuring Vxx from E to 9 using Agilent, GPIB 23
+Measuring Vxy from 9 to B using Keysight 1, GPIB 22
+
+Pushing a voltage of 100.0 mV at frequency 37.37Hz
+Through divider of 1224:12
+Reference resistance of 996.51 Ohms
+Ref. resistance voltage measured using Keysight 2, GPIB 24
+
+Ref. resistance:Rxx:Rxy sensitivities are ?:?:?
+Sweeping magnetic field from -1 to 14T at 0.1 T/min
+Start Value B: 0.000000
+End Value B: -1.000000
+---------						
+B field / T	Temperature (Ohm)	I-Keysight 01	Uxx-Keysight 02	Uxy- Ag1 Ch1	Rxx	Rxy
+						
+0.00000E+0	1.46870E+4	1.17329E-2	9.33860E+0	-3.47270E-3	7.93155E+5	-2.94947E+2
+-2.90000E-3	1.46850E+4	1.17264E-2	9.33890E+0	-3.48470E-3	7.93620E+5	-2.96130E+2
+-9.60000E-3	1.46840E+4	1.17505E-2	9.33883E+0	-3.46280E-3	7.91983E+5	-2.93664E+2
+-1.72000E-2	1.46860E+4	-1.36228E-2	8.96923E+0	-3.47210E-3	-6.56100E+5	2.53984E+2
+-2.53000E-2	1.46870E+4	-1.86768E-2	6.34970E+0	7.18592E-1	-3.38791E+5	-3.83407E+4

@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ca37375-cfed-4f46-bf7f-fd8abb6763aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/.idea/dictionaries/ryank.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/DiceRoller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Organizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Aarakocra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Aasimar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Bugbear.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Centaur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Changeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Dragonborn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Dwarf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Firbolg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Genasi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/Races/Gith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../D&amp;D/VariousLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Mobility and Carrier Density.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DensityClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MobilityClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PokemonGo/DataFiles/Pokedex.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/Character Options/ClassOptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/Character Options/RaceOptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/DnDOrganizerTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/Race Files/Aarakocra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/Race Files/Aarakocra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/Race Files/Additional Files/Dragonborn Chart.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/Race Files/Centaur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/Race Files/Changeling.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../D&amp;D/Race Files/Dragonborn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHYS210/Project 2-Animation/ising.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PHYS210/Project 2-Animation/ising.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGo/.idea/PokemonGo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PokemonGo/.idea/PokemonGo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PokemonGo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PokemonGo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGo/DataFiles/BaseStats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../PokemonGo/DataFiles/BaseStats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGo/DataHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PokemonGo/DataHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PokemonGo/MainCompiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../PokemonGo/MainCompiler.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParishLittlewoodModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12036">
+              <caret line="1025" column="105" selection-start-line="1025" selection-start-column="105" selection-end-line="1025" selection-end-column="105" />
+              <folding>
+                <element signature="e#66#87#0" />
+                <element signature="e#6143#6169#0" />
+                <element signature="e#6654#6774#0" />
+                <element signature="e#6969#11327#0" />
+                <element signature="e#7034#7398#0" />
+                <element signature="e#7034#7190#1" />
+                <element signature="e#7432#7515#0" />
+                <element signature="e#7557#7645#0" />
+                <element signature="e#7685#7780#0" />
+                <element signature="e#7824#8158#0" />
+                <element signature="e#7824#8025#1" />
+                <element signature="e#8082#8158#0" />
+                <element signature="e#8209#9117#0" />
+                <element signature="e#8209#8339#1" />
+                <element signature="e#8500#8630#0" />
+                <element signature="e#8657#8777#0" />
+                <element signature="e#8832#8966#0" />
+                <element signature="e#8993#9117#0" />
+                <element signature="e#9186#9567#0" />
+                <element signature="e#9186#9259#1" />
+                <element signature="e#9318#9434#0" />
+                <element signature="e#9461#9567#0" />
+                <element signature="e#9620#9981#0" />
+                <element signature="e#9620#9794#1" />
+                <element signature="e#9867#9960#0" />
+                <element signature="e#10032#10462#0" />
+                <element signature="e#10032#10269#1" />
+                <element signature="e#10345#10441#0" />
+                <element signature="e#10502#10526#0" />
+                <element signature="e#10569#10596#0" />
+                <element signature="e#10668#11327#0" />
+                <element signature="e#10668#10744#1" />
+                <element signature="e#11043#11307#0" />
+                <element signature="e#11082#11307#0" />
+                <element signature="e#11330#11450#0" />
+                <element signature="e#12173#12293#0" />
+                <element signature="e#12553#12633#0" />
+                <element signature="e#12649#12728#0" />
+                <element signature="e#13192#13332#0" />
+                <element signature="e#13448#14041#0" />
+                <element signature="e#13512#14001#0" />
+                <element signature="e#14614#14955#0" />
+                <element signature="e#15041#15069#0" />
+                <element signature="e#27274#27302#0" />
+                <element signature="e#40039#40380#0" />
+                <element signature="e#40300#40380#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2396">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <element signature="n#!!doc" />
+                <element signature="e#274#292#0" expanded="true" />
+                <element signature="e#437#557#0" />
+                <element signature="e#749#869#0" />
+                <element signature="e#1479#1599#0" />
+                <element signature="e#1793#1855#0" />
+                <element signature="e#1857#1977#0" />
+                <element signature="e#3504#4103#0" />
+                <element signature="e#4140#4737#0" />
+                <element signature="e#4774#5436#0" />
+                <element signature="e#5515#6177#0" />
+                <element signature="e#6801#6876#0" />
+                <element signature="e#7203#7323#0" />
+                <element signature="e#7710#7830#0" />
+                <element signature="e#8150#8225#0" />
+                <element signature="e#8287#8416#0" />
+                <element signature="e#8542#10463#0" />
+                <element signature="e#8815#9050#0" />
+                <element signature="e#9256#9324#0" />
+                <element signature="e#9397#10435#0" />
+                <element signature="e#10555#11303#0" />
+                <element signature="e#10657#10711#0" />
+                <element signature="e#10784#11284#0" />
+                <element signature="e#11306#11426#0" />
+                <element signature="e#11767#12614#0" />
+                <element signature="e#12696#12816#0" />
+                <element signature="e#13203#13323#0" />
+                <element signature="e#13618#13711#0" />
+                <element signature="e#13714#13834#0" />
+                <element signature="e#14175#15044#0" />
+                <element signature="e#15126#15246#0" />
+                <element signature="e#16953#17073#0" />
+                <element signature="e#17462#17582#0" />
+                <element signature="e#17941#18973#0" />
+                <element signature="e#18976#19096#0" />
+                <element signature="e#19378#19724#0" />
+                <element signature="e#19786#26525#0" />
+                <element signature="e#19931#26437#0" />
+                <element signature="e#20198#25540#0" />
+                <element signature="e#20960#21084#0" />
+                <element signature="e#21564#21688#0" />
+                <element signature="e#22168#22292#0" />
+                <element signature="e#26535#26655#0" />
+                <element signature="e#26893#28350#0" />
+                <element signature="e#28360#28480#0" />
+                <element signature="e#28868#28988#0" />
+                <element signature="e#29330#29741#0" />
+                <element signature="e#29883#30003#0" />
+                <element signature="e#30249#31224#0" />
+                <element signature="e#30324#31123#0" />
+                <element signature="e#31234#31354#0" />
+                <element signature="e#31742#31862#0" />
+                <element signature="e#32146#32266#0" />
+                <element signature="e#32793#32913#0" />
+                <element signature="e#33175#35692#0" />
+                <element signature="e#33292#33821#0" />
+                <element signature="e#33918#34447#0" />
+                <element signature="e#34487#35016#0" />
+                <element signature="e#35104#35633#0" />
+                <element signature="e#35694#35814#0" />
+                <element signature="e#36373#38572#0" />
+                <element signature="e#38574#38694#0" />
+                <element signature="e#39016#39696#0" />
+                <element signature="e#40058#40745#0" />
+                <element signature="e#41794#41914#0" />
+                <element signature="e#42476#44798#0" />
+                <element signature="e#44892#45650#0" />
+                <element signature="e#46015#46760#0" />
+                <element signature="e#47876#47996#0" />
+                <element signature="e#48383#48503#0" />
+                <element signature="e#48734#48854#0" />
+                <element signature="e#49062#49539#0" />
+                <element signature="e#49559#50007#0" />
+                <element signature="e#50070#53266#0" />
+                <element signature="e#51199#53245#0" />
+                <element signature="e#53268#53388#0" />
+                <element signature="e#53777#53897#0" />
+                <element signature="e#54148#54268#0" />
+                <element signature="e#54493#54564#0" />
+                <element signature="e#54690#56076#0" />
+                <element signature="e#54963#55198#0" />
+                <element signature="e#55404#55472#0" />
+                <element signature="e#55545#56048#0" />
+                <element signature="e#56168#56934#0" />
+                <element signature="e#56270#56324#0" />
+                <element signature="e#56397#56915#0" />
+                <element signature="e#56937#57057#0" />
+                <element signature="e#59264#59384#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pdf</find>
+      <find>print</find>
+      <find>InPlane</find>
+      <find>OutPlane</find>
+      <find>plt.show()</find>
+      <find>index</find>
+      <find>, dpi=750</find>
+      <find>err</find>
+      <find>figsize=</find>
+      <find>nm</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Mobility Class.py" />
+        <option value="$PROJECT_DIR$/Density Class.py" />
+        <option value="$PROJECT_DIR$/PST441 H3/BSweep_-1to14T_Spininjection (01).dat" />
+        <option value="$PROJECT_DIR$/PST441 H3/DataOrganizer.py" />
+        <option value="$PROJECT_DIR$/MobilityClass.py" />
+        <option value="$PROJECT_DIR$/DensityClass.py" />
+        <option value="$PROJECT_DIR$/ClassicalModelTest.py" />
+        <option value="$PROJECT_DIR$/LinearMagnetoResistance.py" />
+        <option value="$PROJECT_DIR$/DataOrganizer.py" />
+        <option value="$PROJECT_DIR$/ResearchGraphs.py" />
+        <option value="$PROJECT_DIR$/AttemptLinearParabolic.py" />
+        <option value="$PROJECT_DIR$/DataOrganizerOld.py" />
+        <option value="$PROJECT_DIR$/DataList.txt" />
+        <option value="$PROJECT_DIR$/Analyzer.py" />
+        <option value="$PROJECT_DIR$/LogLogPlots.py" />
+        <option value="$PROJECT_DIR$/LinearParabolic.py" />
+        <option value="$PROJECT_DIR$/Model Simulation.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/ParishLittlewoodModel.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PHYS210" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ParishLittlewoodModel">
+    <configuration name="LinearParabolic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mobility and Carrier Density" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearParabolic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LogLogPlots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mobility and Carrier Density" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogLogPlots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Model Simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mobility and Carrier Density" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model Simulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ParishLittlewoodModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mobility and Carrier Density" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ParishLittlewoodModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mobility and Carrier Density" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ParishLittlewoodModel" />
+        <item itemvalue="Python.Test (1)" />
+        <item itemvalue="Python.Model Simulation" />
+        <item itemvalue="Python.LogLogPlots" />
+        <item itemvalue="Python.LinearParabolic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ca37375-cfed-4f46-bf7f-fd8abb6763aa" name="Default Changelist" comment="" />
+      <created>1561630758184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561630758184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19682959" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32904148" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42632332" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.397711" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32904148" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32904148" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32904148" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32904148" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../PHYS229/Scripts/CurveFitLorentzian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="111" column="10" lean-forward="true" selection-start-line="109" selection-end-line="111" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 H3/BSweep_-1to14T_Spininjection_Data_Only (01).dat" />
+    <entry file="file://$PROJECT_DIR$/PST441 H3/BSweep_-1to14T_Spininjection_Data_Only_Rxx (01).dat" />
+    <entry file="file://$PROJECT_DIR$/PST441 H3/BSweep_-1to14T_Spininjection (01).dat" />
+    <entry file="file://$PROJECT_DIR$/PST441 H3/BSweep_14to-1T_Spininjection(01).dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST380 I2/BSweep_-14to14T_Spininjection_Data_Only_Full(06).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST442 G2/OutPlane_-14to14T_Spininjection(01).dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(09).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1562" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(08).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1579" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(07).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(06).dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(05).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4401" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(04).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(03).dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(02).dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(01).dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST236 R5/BSweep_-14to14T_Spininjection(09).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34697">
+          <caret line="2041" column="58" lean-forward="true" selection-start-line="2041" selection-start-column="48" selection-end-line="2041" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST380 I2/BSweep_-14to14T_Spininjection(06).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="1687" column="36" lean-forward="true" selection-start-line="1687" selection-start-column="36" selection-end-line="1687" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 G2/BSweep_-14to14T_Spininjection(07).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="1687" column="36" selection-start-line="1687" selection-start-column="36" selection-end-line="1687" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST441 H3/BSweep_-14to14T_Spininjection(03).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="1686" column="44" selection-start-line="1686" selection-start-column="38" selection-end-line="1686" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST442 G2/BSweep_-14to14T_Spininjection(04).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="1686" column="41" lean-forward="true" selection-start-line="1686" selection-start-column="41" selection-end-line="1686" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PST442 H2/BSweep_-14to14T_Spininjection(03).dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="3345" column="44" selection-start-line="3345" selection-start-column="38" selection-end-line="3345" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassicalModelTest.py" />
+    <entry file="file://$PROJECT_DIR$/DataList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataOrganizerOld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+          <folding>
+            <element signature="e#148#193#0" />
+            <element signature="e#237#306#0" />
+            <element signature="e#353#920#0" />
+            <element signature="e#963#1850#0" />
+            <element signature="e#1899#2365#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogLogPlots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="120" column="111" selection-start-line="120" selection-start-column="28" selection-end-line="120" selection-end-column="111" />
+          <folding>
+            <element signature="e#137#165#0" />
+            <element signature="e#211#276#0" />
+            <element signature="e#323#1901#0" />
+            <element signature="e#1944#3648#0" />
+            <element signature="e#3697#5156#0" />
+            <element signature="e#5967#6328#0" />
+            <element signature="e#6370#7427#0" />
+            <element signature="e#6408#7427#0" />
+            <element signature="e#7446#7639#0" />
+            <element signature="e#7746#7915#0" />
+            <element signature="e#9026#9183#0" />
+            <element signature="e#10114#10274#0" />
+            <element signature="e#10985#11086#0" />
+            <element signature="e#11815#11913#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataOrganizerNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="48" column="30" selection-start-line="29" selection-start-column="8" selection-end-line="48" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verified Data/PST037 D1/RxyFit.png" />
+    <entry file="file://$PROJECT_DIR$/Verified Data/Test.dat" />
+    <entry file="file://$PROJECT_DIR$/DensityClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="46" column="67" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Verified Data/PST037 D1/BSweep LargeHB Rxy Data.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearMagnetoResistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2037">
+          <caret line="127" column="23" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MobilityClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Analyzer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="44" column="57" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearParabolic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2023">
+          <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="30" />
+          <folding>
+            <element signature="e#134#163#0" />
+            <element signature="e#5003#5744#0" />
+            <element signature="e#5754#5892#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResearchGraphs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="52" selection-start-line="52" selection-end-line="53" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model Simulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
+          <folding>
+            <element signature="e#95#175#0" />
+            <element signature="e#789#821#0" />
+            <element signature="e#877#924#0" />
+            <element signature="e#980#1027#0" />
+            <element signature="e#1083#1130#0" />
+            <element signature="e#1170#1200#0" />
+            <element signature="e#1252#1728#0" />
+            <element signature="e#1764#2526#0" />
+            <element signature="e#2131#2368#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParishLittlewoodModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12036">
+          <caret line="1025" column="105" selection-start-line="1025" selection-start-column="105" selection-end-line="1025" selection-end-column="105" />
+          <folding>
+            <element signature="e#66#87#0" />
+            <element signature="e#6143#6169#0" />
+            <element signature="e#6654#6774#0" />
+            <element signature="e#6969#11327#0" />
+            <element signature="e#7034#7398#0" />
+            <element signature="e#7034#7190#1" />
+            <element signature="e#7432#7515#0" />
+            <element signature="e#7557#7645#0" />
+            <element signature="e#7685#7780#0" />
+            <element signature="e#7824#8158#0" />
+            <element signature="e#7824#8025#1" />
+            <element signature="e#8082#8158#0" />
+            <element signature="e#8209#9117#0" />
+            <element signature="e#8209#8339#1" />
+            <element signature="e#8500#8630#0" />
+            <element signature="e#8657#8777#0" />
+            <element signature="e#8832#8966#0" />
+            <element signature="e#8993#9117#0" />
+            <element signature="e#9186#9567#0" />
+            <element signature="e#9186#9259#1" />
+            <element signature="e#9318#9434#0" />
+            <element signature="e#9461#9567#0" />
+            <element signature="e#9620#9981#0" />
+            <element signature="e#9620#9794#1" />
+            <element signature="e#9867#9960#0" />
+            <element signature="e#10032#10462#0" />
+            <element signature="e#10032#10269#1" />
+            <element signature="e#10345#10441#0" />
+            <element signature="e#10502#10526#0" />
+            <element signature="e#10569#10596#0" />
+            <element signature="e#10668#11327#0" />
+            <element signature="e#10668#10744#1" />
+            <element signature="e#11043#11307#0" />
+            <element signature="e#11082#11307#0" />
+            <element signature="e#11330#11450#0" />
+            <element signature="e#12173#12293#0" />
+            <element signature="e#12553#12633#0" />
+            <element signature="e#12649#12728#0" />
+            <element signature="e#13192#13332#0" />
+            <element signature="e#13448#14041#0" />
+            <element signature="e#13512#14001#0" />
+            <element signature="e#14614#14955#0" />
+            <element signature="e#15041#15069#0" />
+            <element signature="e#27274#27302#0" />
+            <element signature="e#40039#40380#0" />
+            <element signature="e#40300#40380#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2396">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#274#292#0" expanded="true" />
+            <element signature="e#437#557#0" />
+            <element signature="e#749#869#0" />
+            <element signature="e#1479#1599#0" />
+            <element signature="e#1793#1855#0" />
+            <element signature="e#1857#1977#0" />
+            <element signature="e#3504#4103#0" />
+            <element signature="e#4140#4737#0" />
+            <element signature="e#4774#5436#0" />
+            <element signature="e#5515#6177#0" />
+            <element signature="e#6801#6876#0" />
+            <element signature="e#7203#7323#0" />
+            <element signature="e#7710#7830#0" />
+            <element signature="e#8150#8225#0" />
+            <element signature="e#8287#8416#0" />
+            <element signature="e#8542#10463#0" />
+            <element signature="e#8815#9050#0" />
+            <element signature="e#9256#9324#0" />
+            <element signature="e#9397#10435#0" />
+            <element signature="e#10555#11303#0" />
+            <element signature="e#10657#10711#0" />
+            <element signature="e#10784#11284#0" />
+            <element signature="e#11306#11426#0" />
+            <element signature="e#11767#12614#0" />
+            <element signature="e#12696#12816#0" />
+            <element signature="e#13203#13323#0" />
+            <element signature="e#13618#13711#0" />
+            <element signature="e#13714#13834#0" />
+            <element signature="e#14175#15044#0" />
+            <element signature="e#15126#15246#0" />
+            <element signature="e#16953#17073#0" />
+            <element signature="e#17462#17582#0" />
+            <element signature="e#17941#18973#0" />
+            <element signature="e#18976#19096#0" />
+            <element signature="e#19378#19724#0" />
+            <element signature="e#19786#26525#0" />
+            <element signature="e#19931#26437#0" />
+            <element signature="e#20198#25540#0" />
+            <element signature="e#20960#21084#0" />
+            <element signature="e#21564#21688#0" />
+            <element signature="e#22168#22292#0" />
+            <element signature="e#26535#26655#0" />
+            <element signature="e#26893#28350#0" />
+            <element signature="e#28360#28480#0" />
+            <element signature="e#28868#28988#0" />
+            <element signature="e#29330#29741#0" />
+            <element signature="e#29883#30003#0" />
+            <element signature="e#30249#31224#0" />
+            <element signature="e#30324#31123#0" />
+            <element signature="e#31234#31354#0" />
+            <element signature="e#31742#31862#0" />
+            <element signature="e#32146#32266#0" />
+            <element signature="e#32793#32913#0" />
+            <element signature="e#33175#35692#0" />
+            <element signature="e#33292#33821#0" />
+            <element signature="e#33918#34447#0" />
+            <element signature="e#34487#35016#0" />
+            <element signature="e#35104#35633#0" />
+            <element signature="e#35694#35814#0" />
+            <element signature="e#36373#38572#0" />
+            <element signature="e#38574#38694#0" />
+            <element signature="e#39016#39696#0" />
+            <element signature="e#40058#40745#0" />
+            <element signature="e#41794#41914#0" />
+            <element signature="e#42476#44798#0" />
+            <element signature="e#44892#45650#0" />
+            <element signature="e#46015#46760#0" />
+            <element signature="e#47876#47996#0" />
+            <element signature="e#48383#48503#0" />
+            <element signature="e#48734#48854#0" />
+            <element signature="e#49062#49539#0" />
+            <element signature="e#49559#50007#0" />
+            <element signature="e#50070#53266#0" />
+            <element signature="e#51199#53245#0" />
+            <element signature="e#53268#53388#0" />
+            <element signature="e#53777#53897#0" />
+            <element signature="e#54148#54268#0" />
+            <element signature="e#54493#54564#0" />
+            <element signature="e#54690#56076#0" />
+            <element signature="e#54963#55198#0" />
+            <element signature="e#55404#55472#0" />
+            <element signature="e#55545#56048#0" />
+            <element signature="e#56168#56934#0" />
+            <element signature="e#56270#56324#0" />
+            <element signature="e#56397#56915#0" />
+            <element signature="e#56937#57057#0" />
+            <element signature="e#59264#59384#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

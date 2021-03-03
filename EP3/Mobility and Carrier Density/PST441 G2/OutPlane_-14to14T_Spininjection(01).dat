@@ -1,0 +1,40 @@
+Name: Ryan
+measurement station: King Louie
+Sample: PST 441 G2
+date: Thursday, July 04, 2019
+time: 4:38 PM
+Comment: 
+PST441 G2
+6-Terminal Small Hall Bar
+July 3rd, 2019
+
+Pushing current from 9 to B
+Measuring Vxx from E to 3 using Agilent, GPIB 23
+Measuring Vxy from E to 11 using Keysight 1, GPIB 22
+
+Pushing a voltage of 100.0 mV at frequency 37.37Hz
+Through divider of 1224:12
+Reference resistance of 996.51 Kilohms
+Ref. resistance voltage measured using Keysight 2, GPIB 24
+
+Ref. resistance:Rxx:Rxy sensitivities are 1:1:0.02
+Sweeping magnetic field from -14 to 14T at 0.1 T/min
+Start Value B: 14.000000
+End Value B: 13.900000
+---------						
+B field / T	Temperature (Ohm)	I-Keysight 01	Uxx-Keysight 02	Uxy- Ag1 Ch1	Rxx	Rxy
+						
+1.40000E+1	2.19730E+4	-8.33171E+0	5.87845E+0	1.53247E+0	-7.03089E+2	-1.83290E+2
+1.39973E+1	2.19710E+4	-8.32958E+0	5.87854E+0	1.53246E+0	-7.03279E+2	-1.83336E+2
+1.39908E+1	2.19730E+4	-8.32452E+0	5.87855E+0	1.53234E+0	-7.03708E+2	-1.83433E+2
+1.39834E+1	2.19710E+4	-8.32074E+0	5.87914E+0	1.53235E+0	-7.04098E+2	-1.83518E+2
+1.39757E+1	2.19670E+4	-8.31460E+0	5.87900E+0	1.53215E+0	-7.04601E+2	-1.83630E+2
+1.39676E+1	2.19660E+4	-8.31067E+0	5.87941E+0	1.53223E+0	-7.04984E+2	-1.83726E+2
+1.39593E+1	2.19690E+4	-8.30515E+0	5.87920E+0	1.53190E+0	-7.05428E+2	-1.83808E+2
+1.39512E+1	2.19660E+4	-8.30054E+0	5.87967E+0	1.53196E+0	-7.05876E+2	-1.83918E+2
+1.39430E+1	2.19680E+4	-8.29453E+0	5.87978E+0	1.53171E+0	-7.06400E+2	-1.84021E+2
+1.39348E+1	2.19670E+4	-8.28981E+0	5.88037E+0	1.53178E+0	-7.06873E+2	-1.84133E+2
+1.39262E+1	2.19680E+4	-8.28382E+0	5.88043E+0	1.53153E+0	-7.07392E+2	-1.84237E+2
+1.39179E+1	2.19670E+4	-8.27992E+0	5.88052E+0	1.53147E+0	-7.07736E+2	-1.84317E+2
+1.39096E+1	2.19670E+4	-8.27377E+0	5.88067E+0	1.53141E+0	-7.08279E+2	-1.84446E+2
+1.39010E+1	2.19650E+4	-8.26938E+0	5.88093E+0	1.53135E+0	-7.08687E+2	-1.84537E+2

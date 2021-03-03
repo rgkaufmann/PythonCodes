@@ -1,0 +1,13 @@
+PST236 Data Release:
+2D Carrier Density: 1.844686e+16
+3D Carrier Density: 2.049651e+20
+Mobility: 1.4946246295092882
+
+Initial Rxy Parameters:
+[0.03370633 3.04192791]
+
+Rxx Parameters:
+[  3.23222122 679.13537071]
+
+Adjusted Rxy Parameters:
+[ 0.03383508 -0.16958841]

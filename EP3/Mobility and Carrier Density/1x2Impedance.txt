@@ -1,0 +1,5 @@
+a - b                    	a - c                    	a - d                    	a - c                    	a - c                    
+-b + d                   	2*a - 2*b - c + d        	a - c                    	2*a - b - c              	2*a - b - 2*c + d        
+-b + c                   	-b + d                   	a - b                    	-b + d                   	-b + d                   
+-b + d                   	a - 2*b + d              	a - c                    	2*a - 2*b - c + d        	a - 2*b - c + 2*d        
+-b + d                   	a - 2*b - c + 2*d        	a - c                    	2*a - b - 2*c + d        	2*a - 2*b - 2*c + 2*d    

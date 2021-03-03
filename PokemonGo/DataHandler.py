@@ -1,14 +1,31 @@
 import numpy as np
+import math
 
 
 class DataHandler:
-    dataset = np.array([[]])
 
     def __init__(self):
         self.dataset = np.array([])
+        self.file = ''
+
+    def checkdata(self, types):
+        if 'BaseStats' in self.file:
+            for pokemon in self.dataset:
+                print(str(pokemon["Name"])[2:-1])
+                if int(math.floor((pokemon["BaseATK"]+15)*(pokemon["BaseDEF"]+15)**0.5*(pokemon["BaseSTM"]+15)**0.5 *
+                                  0.790300**2/10)) != pokemon["MaxCP"]:
+                    print('Max CP values do not match up! Please reenter data.')
+                    input()
+                if str(pokemon["Type1"])[2:-1].capitalize() not in types:
+                    print('Type 1 does not exist! Please reenter data.')
+                    input()
+                if str(pokemon["Type2"])[2:-1].capitalize() not in types and str(pokemon[6])[2:-1] != "None":
+                    print('Type 2 does not exist! Please reenter data.')
+                    input()
 
     def loadtxt(self, filename, datatype):
         try:
+            self.file = filename
             self.dataset = np.loadtxt(filename, dtype=datatype, delimiter=',')
         except IOError or ValueError:
             return False
@@ -23,7 +40,6 @@ class DataHandler:
         data = self.dataset.tolist()
         data = list(data)
         for line in newdata:
-            print line
             data.append(line)
         self.dataset = np.array(data)
         return True
@@ -37,4 +53,10 @@ class DataHandler:
                 else:
                     f.write(str(line[inter]))
             f.write("\n")
+        f.close()
+
+    def quickpokedex(self, filename):
+        f = open(filename, "w")
+        for line in self.dataset:
+            f.write(str(line[0])[2:-1] + "\n")
         f.close()

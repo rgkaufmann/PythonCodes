@@ -1,0 +1,17 @@
+PST442 Data Release:
+2D Carrier Density: 2.931925e+14
+3D Carrier Density: 3.257694e+19
+Mobility: 198.6458738813676
+
+Initial Rxy Parameters:
+[ 2.13069008 -0.28435893]
+
+Rxx Parameters:
+[  1.07978554 321.49816329]
+
+Adjusted Rxy Parameters:
+[2.12880945 0.03239913]
+
+Linear Rxx Parameters:
+[ -6.94642867 307.98186726]
+[  6.95175749 307.94864681]

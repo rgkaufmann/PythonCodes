@@ -1,0 +1,5 @@
+PST236:
+
+Rxx Parameters:
+	SlopeLinPos	OffsetLinPos	SlopeLinNeg	OffsetLinNeg	SlopePar	OffsetPar	Cutoff
+[1.328643992198959, 680.0755508695942, 2.2265625]

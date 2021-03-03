@@ -1,0 +1,45 @@
+Name: Ryan
+Sample: PST441 H3
+Measuring Station: King Louis
+Start Date/Time: 6/24/2019 / 4:58:20 PM
+Actual time: 6/24/2019 / 4:58:20 PM
+
+Comment:
+PST441 H3
+8-Terminal Hall Bar
+June 24th, 2019
+Cool-down measurement
+
+Pushing current from 6 to 12
+Measuring Rxx from 8 to E in Keysight 1
+
+Set frequency to 37.37 Hz
+Giving amplitude of 100mV through 1224:12 divider
+Reference resistance of 996.51 Ohms
+Measuring ref. resistance in Keysight 2
+
+Cooling overnight from 200K
+
+Swept Device: Zeit (Computer) []
+Beginvalue: 0.000000E+0; Endvalue: 5.000000E+3
+Measurement type: Unidirectional
+Step Device: None (value in data file set to '0')
+---------					
+Zeit (Computer) []	None () []	Voltage (Keysight34460A 1) [V]	Voltage (Keysight34460A 2) [V]	Voltage (Keysight34460A 3) [V]	Temp. (Model 335 ChB) [Ohm]
+					
+0.00000E+0	0.00000E+0	-3.41400E-3	9.25600E+0	NaN	0.00000E+0
+1.00000E+0	0.00000E+0	-3.44690E-3	9.25580E+0	NaN	0.00000E+0
+2.00000E+0	0.00000E+0	-3.46330E-3	9.25581E+0	NaN	0.00000E+0
+3.00000E+0	0.00000E+0	-3.46330E-3	9.25616E+0	NaN	0.00000E+0
+4.00000E+0	0.00000E+0	-3.42500E-3	9.25650E+0	NaN	0.00000E+0
+5.00000E+0	0.00000E+0	-3.39760E-3	9.25646E+0	NaN	0.00000E+0
+6.00000E+0	0.00000E+0	-3.37020E-3	9.25603E+0	NaN	0.00000E+0
+7.00000E+0	0.00000E+0	-3.38110E-3	9.25571E+0	NaN	0.00000E+0
+8.00000E+0	0.00000E+0	-3.39760E-3	9.25593E+0	NaN	0.00000E+0
+9.00000E+0	0.00000E+0	-3.40310E-3	9.25652E+0	NaN	0.00000E+0
+1.00000E+1	0.00000E+0	-3.39760E-3	9.25689E+0	NaN	0.00000E+0
+1.10000E+1	0.00000E+0	-3.40850E-3	9.25701E+0	NaN	0.00000E+0
+1.20000E+1	0.00000E+0	-3.44140E-3	9.25684E+0	NaN	0.00000E+0
+1.30000E+1	0.00000E+0	-3.43590E-3	9.25649E+0	NaN	0.00000E+0
+1.40000E+1	0.00000E+0	-3.44140E-3	9.25648E+0	NaN	0.00000E+0
+1.50000E+1	0.00000E+0	-3.45240E-3	9.25624E+0	NaN	0.00000E+0

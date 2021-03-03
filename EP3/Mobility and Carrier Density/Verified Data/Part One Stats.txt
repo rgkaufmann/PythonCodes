@@ -1,0 +1,155 @@
+         2715317 function calls (2570908 primitive calls) in 2.384 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      175    0.453    0.003    0.454    0.003 {built-in method io.open}
+       50    0.425    0.009    0.597    0.012 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:1193(savetxt)
+   658269    0.340    0.000    0.400    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:771(floatconv)
+       50    0.203    0.004    1.129    0.023 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:1041(read_data)
+    72183    0.142    0.000    0.542    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:1068(<listcomp>)
+    72333    0.136    0.000    0.136    0.000 {built-in method _codecs.charmap_encode}
+144366/72183    0.101    0.000    0.142    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:1012(pack_items)
+    72333    0.092    0.000    0.248    0.000 {method 'write' of '_io.TextIOWrapper' objects}
+    72208    0.074    0.000    0.170    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:1029(split_line)
+144391/72208    0.066    0.000    0.176    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\core\_internal.py:926(__call__)
+   658322    0.060    0.000    0.060    0.000 {method 'lower' of 'str' objects}
+      125    0.048    0.000    0.048    0.000 {built-in method numpy.array}
+    72508    0.036    0.000    0.036    0.000 {method 'split' of 'str' objects}
+    72208    0.033    0.000    0.033    0.000 {method 'split' of 're.Pattern' objects}
+     1898    0.028    0.000    0.028    0.000 {built-in method _codecs.charmap_decode}
+   217633    0.021    0.000    0.021    0.000 {method 'append' of 'list' objects}
+    72333    0.020    0.000    0.156    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\encodings\cp1252.py:18(encode)
+219383/219382    0.018    0.000    0.018    0.000 {built-in method builtins.len}
+    72233    0.015    0.000    0.015    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_iotools.py:20(_decode_line)
+      175    0.014    0.000    0.014    0.000 {method 'close' of '_io.TextIOWrapper' objects}
+    72208    0.012    0.000    0.012    0.000 {method 'strip' of 'str' objects}
+       25    0.009    0.000    0.009    0.000 {built-in method nt.remove}
+       75    0.005    0.000    0.005    0.000 {built-in method nt.stat}
+      418    0.004    0.000    0.004    0.000 {built-in method builtins.next}
+      300    0.002    0.000    0.002    0.000 {method 'join' of 'str' objects}
+      225    0.002    0.000    0.004    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\ntpath.py:450(normpath)
+     1898    0.002    0.000    0.030    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\encodings\cp1252.py:22(decode)
+       25    0.001    0.000    1.191    0.048 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:803(loadtxt)
+      792    0.001    0.000    0.002    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\ntpath.py:122(splitdrive)
+      300    0.001    0.000    0.002    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\urllib\parse.py:409(urlsplit)
+       50    0.001    0.000    0.001    0.000 {built-in method builtins.__build_class__}
+      175    0.001    0.000    0.001    0.000 {built-in method _locale._getdefaultlocale}
+       21    0.001    0.000    0.001    0.000 {built-in method nt.lstat}
+      225    0.001    0.000    0.005    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:373(_isurl)
+      300    0.001    0.000    0.004    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\urllib\parse.py:361(urlparse)
+       22    0.001    0.000    0.001    0.000 {built-in method nt.scandir}
+      150    0.001    0.000    0.003    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:504(_sanitize_relative_path)
+     1945    0.001    0.000    0.001    0.000 {built-in method builtins.isinstance}
+       26    0.001    0.000    0.001    0.000 {built-in method builtins.print}
+      175    0.001    0.000    0.002    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\_bootlocale.py:11(getpreferredencoding)
+      375    0.001    0.000    0.001    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:203(keys)
+      600    0.001    0.000    0.001    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\urllib\parse.py:109(_coerce_args)
+      225    0.001    0.000    0.001    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\genericpath.py:117(_splitext)
+      376    0.001    0.000    0.001    0.000 {built-in method builtins.hasattr}
+      150    0.000    0.000    0.002    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:364(_possible_names)
+       75    0.000    0.000    0.005    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:459(abspath)
+      225    0.000    0.000    0.002    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:334(_iszip)
+       96    0.000    0.000    0.001    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\ntpath.py:75(join)
+       75    0.000    0.000    0.014    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:428(_findfile)
+       75    0.000    0.000    0.000    0.000 {built-in method nt._getfullpathname}
+    65/23    0.000    0.000    0.005    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\os.py:278(walk)
+       75    0.000    0.000    0.046    0.001 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:578(open)
+       75    0.000    0.000    0.003    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:319(__init__)
+      717    0.000    0.000    0.000    0.000 {method 'replace' of 'str' objects}
+       75    0.000    0.000    0.049    0.001 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:228(open)
+      225    0.000    0.000    0.001    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\ntpath.py:201(splitext)
+      684    0.000    0.000    0.000    0.000 {method 'rfind' of 'str' objects}
+     1350    0.000    0.000    0.000    0.000 {method 'lstrip' of 'str' objects}
+     1360    0.000    0.000    0.000    0.000 {built-in method nt.fspath}
+       75    0.000    0.000    0.000    0.000 {built-in method _abc._abc_instancecheck}
+       50    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\type_check.py:282(iscomplexobj)
+      450    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+      300    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:1009(_handle_fromlist)
+       75    0.000    0.000    0.003    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\ntpath.py:523(abspath)
+      353    0.000    0.000    0.000    0.000 {built-in method __new__ of type object at 0x00007FFD1C3C4BA0}
+      302    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       50    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:1321(WriteWrap)
+      225    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+      300    0.000    0.000    0.000    0.000 <string>:1(__new__)
+       50    0.000    0.000    0.000    0.000 {method 'count' of 'str' objects}
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:768(_getconv)
+       75    0.000    0.000    0.005    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\genericpath.py:16(exists)
+      125    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\codecs.py:186(__init__)
+       75    0.000    0.000    0.005    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:518(exists)
+      450    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:170(_load)
+       75    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:329(__del__)
+       25    0.000    0.000    0.000    0.000 {method 'translate' of 'str' objects}
+       50    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\compat\py3k.py:38(asstr)
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\re.py:252(escape)
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\re.py:271(_compile)
+      600    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\urllib\parse.py:98(_noop)
+      375    0.000    0.000    0.000    0.000 {method 'keys' of 'dict' objects}
+       62    0.000    0.000    0.000    0.000 {method 'find' of 'str' objects}
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:922(<listcomp>)
+       75    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\abc.py:137(__instancecheck__)
+       22    0.000    0.000    0.000    0.000 C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/Test.py:31(<listcomp>)
+       75    0.000    0.000    0.001    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:351(_splitzipext)
+       53    0.000    0.000    0.000    0.000 {built-in method builtins.any}
+       25    0.000    0.000    0.000    0.000 {method 'squeeze' of 'numpy.ndarray' objects}
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:982(flatten_dtype_internal)
+       75    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_datasource.py:222(__getitem__)
+       50    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\core\numeric.py:469(asarray)
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\re.py:232(compile)
+       50    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:924(<genexpr>)
+      106    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\urllib\parse.py:448(<genexpr>)
+      200    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       75    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\_iotools.py:46(_is_string_like)
+      371    0.000    0.000    0.000    0.000 {method 'is_dir' of 'nt.DirEntry' objects}
+       50    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\codecs.py:260(__init__)
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\core\fromnumeric.py:1331(squeeze)
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:1133(<listcomp>)
+       21    0.000    0.000    0.001    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\ntpath.py:226(islink)
+       25    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+       50    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\core\_internal.py:924(__init__)
+       25    0.000    0.000    0.000    0.000 C:\Users\ryank\Desktop\Personal Files\Github\PythonCodes\EP3\Mobility and Carrier Density\venv\lib\site-packages\numpy\lib\npyio.py:1109(<listcomp>)
+        4    0.000    0.000    0.000    0.000 {method 'clear' of 'dict' objects}
+       53    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\urllib\parse.py:394(_checknetloc)
+       25    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_compile.py:759(compile)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:475(_parse)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_compile.py:536(_compile_info)
+        1    0.000    0.000    0.000    0.000 C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/Test.py:32(<listcomp>)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:343(_escape)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:919(parse)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:224(__init__)
+       24    0.000    0.000    0.000    0.000 {method 'extend' of 'list' objects}
+       26    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\urllib\parse.py:83(clear_cache)
+       21    0.000    0.000    0.000    0.000 {built-in method _stat.S_ISLNK}
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:233(__next)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:76(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:417(_parse_sub)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:174(getwidth)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\enum.py:836(__and__)
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\enum.py:284(__call__)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_compile.py:598(_code)
+        1    0.000    0.000    0.000    0.000 {built-in method _abc._abc_subclasscheck}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\os.py:1076(__subclasshook__)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_compile.py:71(_compile)
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\enum.py:526(__new__)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_compile.py:461(_get_literal_prefix)
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_compile.py:595(isstring)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:903(fix_flags)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_compile.py:432(_generate_overlap_table)
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.min}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:111(__init__)
+        1    0.000    0.000    0.000    0.000 {built-in method _sre.compile}
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\abc.py:141(__subclasscheck__)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:286(tell)
+        2    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:81(groups)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:164(__getitem__)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:160(__len__)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:172(append)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:254(get)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_compile.py:453(_get_iscased)
+        1    0.000    0.000    0.000    0.000 C:\Users\ryank\AppData\Local\Programs\Python\Python37\lib\sre_parse.py:249(match)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.ord}
+
+

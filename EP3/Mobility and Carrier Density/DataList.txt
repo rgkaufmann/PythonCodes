@@ -1,0 +1,19 @@
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST380 I2/BSweep_-14to14T_Spininjection_Data_Only_Full(06).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST441 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(07).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST441 G2/OutPlane_-14to14T_Spininjection_Data_Only_OutPlane(03).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST441 H3/BSweep_-14to14T_Spininjection_Data_Only_Full(03).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST442 G2/BSweep_-14to14T_Spininjection_Data_Only_Full(04).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST442 G2/OutPlane_-14to14T_Spininjection_Data_Only_OutPlane(03).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST442 H2/BSweep_-14to14T_Spininjection_Data_Only_Full(03).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST236 R5/BSweep_-14to14T_Spininjection_Data_Only_Full(09).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST236 R5/OutPlane_-14to14T_Spininjection_Data_Only_OutPlane(02).dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST192 M1/BsweepBH (01) Data.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST191 M1/Bsweep_SH (01) Data.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST189 M1/B_sweep_BH_R1_12_1_R2_12_10_R3_10_3 (01) Data.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST081 D2/I_8_B_R1_5_2_R2_6_5_Bsweep_HBbig (01) Data.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST042 D1/I_D_4_R1_6_8_R2_6_5_R3_5_3_bsweep_small (01) Data.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST037 D1/I_9_2_R1_B_12_R2_11_12_Bsweep_big (01) Data.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST194 M1/Bsweep_BHData.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST195 M1/Bsweep_BH (01) Data.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST196 M1/Bsweep_BH (01) Data.dat
+C:/Users/ryank/Desktop/Personal Files/Github/PythonCodes/EP3/Mobility and Carrier Density/PST197 M1/Bsweep_BH (03) Data.dat

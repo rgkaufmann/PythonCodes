@@ -1,0 +1,22 @@
+PST081 D2 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		0.2001387662141866 +/- 0.0003501253520779359	Ohms/T^2
+Rxx Linear-Parabolic Offset:		130.49074654336198 +/- 0.010300862767978178	Ohms
+Rxx Linear-Parabolic Critical B-Field:	5.005099999998492 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		1.293181899689103 +/- 0.0006366784285237867	Ohms/T
+Rxy Linear Offset:		-0.04559262083434166 +/- 0.00014710124353249862	Ohms
+
+Carrier Density and Mobility:
+2-D Carrier Density:	4.826474e+14 +/- 2.376241e+11	1/cm^2
+3-D Carrier Density:	9.652948e+19 +/- 4.752482e+16	1/cm^3
+Mobility:		2.973043e+02 +/- 1.482428e-01	cm^2/(V*s)
+
+Recorded Data:
+3-D Carrier Density:	9.700000e+19	1/cm^3
+Mobility:		3.000000e+02	cm^2/(V*s)
+
+Data Discrepancy:
+3-D Carrier Density:	-4.705152e+17	1/cm^3
+3-D Carrier Density:	-9.900409e+00	Sigmas
+Mobility:		-2.695724e+00	cm^2/(V*s)Mobility:		-1.818452e+01	Sigmas

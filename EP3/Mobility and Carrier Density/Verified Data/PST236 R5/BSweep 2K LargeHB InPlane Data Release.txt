@@ -1,0 +1,8 @@
+PST236 R5 Data Release:
+
+Final Fitting Parameters:
+Rxx Linear-Parabolic Slope:		0.37478909852807846 +/- 0.002059212239110025	Ohms/T^2
+Rxx Linear-Parabolic Offset:		692.361349977996 +/- 0.17430976119282107	Ohms
+Rxx Linear-Parabolic Critical B-Field:	2.25879999999961 +/- 9.094947017729282e-13	T
+Rxy Linear Slope:		0.02609143595516526 +/- 0.0009350185336958283	Ohms/T
+Rxy Linear Offset:		2.988124910965897 +/- 0.00677699725950622	Ohms
